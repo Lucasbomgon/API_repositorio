@@ -230,3 +230,4 @@ C:\Users\Administrator\source\repos\APICatalogo\APICatalogo\bin\Debug\net8.0\run
 C:\Users\Administrator\source\repos\APICatalogo\APICatalogo\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Administrator\source\repos\APICatalogo\APICatalogo\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 C:\Users\Administrator\source\repos\APICatalogo\APICatalogo\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Administrator\source\repos\APICatalogo\APICatalogo\obj\Debug\net8.0\APICatalogo.sourcelink.json
