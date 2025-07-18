@@ -27,7 +27,7 @@ namespace APICatalogo.Controllers
         {
             return await _context.produtos.AsNoTracking().ToListAsync();
         }
-
+    
         [HttpGet("{id:int}", Name = "ObterProduto")]
         public async Task<ActionResult<Produto>> Get(int id)
         {
